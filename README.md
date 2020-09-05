@@ -16,4 +16,4 @@ Para probarlo ejecute el programa **test.py** proporcionado
 
 A continaución se muestran los números primos entre 1 y 100
 
-![NumerosPrimos](/home/avmejia/TEC/AGO-DIC20/TC1028/GitHub/TC1028-Primo/NumerosPrimos.png)
+![NumerosPrimos](NumerosPrimos.png)
