@@ -14,6 +14,8 @@ Su función es_primo debe usar **<u>ciclos</u>**.
 
 Para probarlo ejecute el programa **test.py** proporcionado
 
+No se le olvide subir a *GitHub* su respuesta, además suba la respuesta a Canvas usando una herramienta que genere un archivo **.zip**
+
 A continaución se muestran los números primos entre 1 y 100
 
 ![NumerosPrimos](NumerosPrimos.png)
